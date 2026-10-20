@@ -1,0 +1,11 @@
+ESTAMPARTE CALCULADORA DE SERIGRAFÍA
+1. Descomprime ZIP.
+2. Crea repositorio público nuevo en GitHub, por ejemplo estamparte-calculadora.
+3. Sube index.html, logo.png, icon.png, manifest.json y sw.js a la raíz.
+4. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+5. Abre Visit site en Safari y usa Compartir > Agregar a pantalla de inicio. En Android, Chrome > Instalar aplicación.
+6. Precio a consultar para 1–11 y 73–100 piezas: faltan esos rangos en la tabla original.
+7. Guardar PDF utiliza la impresión del navegador (en iPhone, compartir vista previa como PDF).
+8. No calcula prendas, sólo costo del estampado.
+
+ACTUALIZACIÓN: Pedido mínimo 12 piezas; tarifa de 73 piezas en adelante sin límite.
